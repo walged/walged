@@ -119,7 +119,7 @@ superpower: "Создаю рабочие MVP для проверки бизне�
 | **designtuapse.ru** | `Telegram Bot` `PostgreSQL` `Payment Gateway` |
 | **Animeserial.com** | `Python` `Aiogram` `BullMQ` `Docker` |
 | **Vsepromore.ru** | `Aiogram 3` `PostgreSQL` `Data Export` `Analytics` |
-
+/скоро будет обновлено\
 </div>
 
 ---
