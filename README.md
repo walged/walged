@@ -9,8 +9,12 @@
 <!-- Social Badges -->
 <p>
 <a href="https://t.me/walged"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://arthurdev.ru"><img src="https://img.shields.io/badge/Website-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://github.com/walged"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=walged&style=for-the-badge&color=8b5cf6" alt="Profile Views"/>
 
 </div>
 
@@ -141,11 +145,11 @@ superpower: "Создаю рабочие MVP для проверки бизне�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=d946ef&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=walged&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=d946ef&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walged&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c9d1d9"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthur&bg_color=0d1117&color=8b5cf6&line=d946ef&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=walged&bg_color=0d1117&color=8b5cf6&line=d946ef&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 
 <!-- Snake Animation -->
 <picture>
@@ -162,7 +166,7 @@ superpower: "Создаю рабочие MVP для проверки бизне�
 
 <div align="center">
 
-<a href="https://t.me/arthur">
+<a href="https://t.me/walged">
   <img src="https://img.shields.io/badge/-Написать%20в%20Telegram-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
