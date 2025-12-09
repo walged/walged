@@ -145,8 +145,7 @@ superpower: "Создаю рабочие MVP для проверки бизне�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=walged&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=d946ef&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walged&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c9d1d9"/>
+
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=walged&bg_color=0d1117&color=8b5cf6&line=d946ef&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
